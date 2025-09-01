@@ -32,12 +32,6 @@
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=AlexeyKoznov&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKoznov&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Контакты  
 - 📄 [Резюме на hh.ru](https://spb.hh.ru/resume/772485ccff0e777b510039ed1f444961734a53)  
 - 💬 [Telegram](https://t.me/AlexeyKoznov)  
