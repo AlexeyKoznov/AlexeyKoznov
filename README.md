@@ -1,17 +1,44 @@
-## Обо мне
-Привет! Я - аналитик данных. Больше года назад я увлекся аналитикой данных и с тех пор активно развиваюсь в этом направлении. Освоил SQL, Python и основы статистики, прошел курсы на Яндекс.Практикуме. Ищу работу в компании, где смогу применять свои навыки и расти как аналитик данных. Мне нравится работать с данными, нравится писать код для анализа, искать инсайты, заниматься предобработкой. Нравится весь технический процесс анализа.
+# 👋 Обо мне  
+Привет! Меня зовут **Алексей**, я — **аналитик данных**.  
 
-## Портфолио 
-| Наименование       | Описание                         | Стек              |
-| ------------------ | :------------------------------: | ----------------- |
-| [Личные проекты]()          | В процессе разработки   | `SQL`, `Python`, `DataLens`, `Pandas`, `phik` |
-| [Practicum](https://github.com/AlexeyKoznov/Portfolio/tree/main/Practicum)          | Проекты, выполненные в рамках курса "Аналитик данных" от Яндекс Практикум   | `SQL`, `Python`, `DataLens`, `Pandas`, `phik` |
-| [Kaggle](https://github.com/AlexeyKoznov/Portfolio/tree/main/Kaggle)             | Проекты, выполненные на сайте Kaggle                                | `Python`, `Pandas`   |
+🔹 Более года изучаю и практикую аналитику данных.  
+🔹 Освоил **SQL, Python, основы статистики**.  
+🔹 Прошел курс «Аналитик данных» в **Яндекс.Практикуме** и продолжаю развиваться.  
+🔹 Мне нравится весь цикл работы с данными: от предобработки и поиска инсайтов до визуализации и презентации результатов.  
 
-## Skills
-Python, Pandas, Matplotlib/Seaborn, DataLens/Power BI, MS Excel, PostgreSQL
+📌 Ранее занимался **3D-графикой** ([портфолио](https://www.artstation.com/koznovalexey)) и **B2B-продажами клининговых услуг** для промышленных предприятий. Этот опыт помогает лучше понимать бизнес-задачи и красиво визуализировать результаты анализа.  
 
-## Контакты
-- [Резюме](https://spb.hh.ru/resume/772485ccff0e777b510039ed1f444961734a53)
-- [Телеграмм:](https://t.me/AlexeyKoznov)
-- Телефон: +79818892783
+---
+
+# 📂 Портфолио  
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [📘 Practicum](https://github.com/AlexeyKoznov/Portfolio/tree/main/Practicum) | Учебные проекты курса «Аналитик данных» (Яндекс.Практикум) | `SQL`, `Python`, `DataLens`, `Pandas`, `phik` |
+| [📊 Kaggle](https://github.com/AlexeyKoznov/Portfolio/tree/main/Kaggle) | Практика на соревнованиях и датасетах Kaggle | `Python`, `Pandas` |
+
+---
+
+# 🛠️ Навыки  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Yandex DataLens](https://img.shields.io/badge/DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=AlexeyKoznov&show_icons=true&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKoznov&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Контакты  
+- 📄 [Резюме на hh.ru](https://spb.hh.ru/resume/772485ccff0e777b510039ed1f444961734a53)  
+- 💬 [Telegram](https://t.me/AlexeyKoznov)  
+- 📞 Телефон: +7 (981) 889-27-83  
