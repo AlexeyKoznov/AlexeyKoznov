@@ -33,6 +33,6 @@
 ---
 
 # 📫 Контакты  
-- 📄 [Резюме на hh.ru](https://spb.hh.ru/resume/772485ccff0e777b510039ed1f444961734a53)
+- 📄 [Резюме на hh.ru](https://spb.hh.ru/resume/bdc37174ff0fb96e5b0039ed1f79654e554e57)
 - 💬 [Telegram](https://t.me/AlexeyKoznov)  
 - 📞 Телефон: +7 (981) 889-27-83  
